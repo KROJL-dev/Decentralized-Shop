@@ -1,8 +1,6 @@
 # Decentralized Shop
 
-It is a training project. The main following target is getting knowledge in solidity.
-
-Try running some of the following tasks:
+It is a training project. The main following target is gain knowledge in solidity.
 
 ```shell
 npx hardhat help
