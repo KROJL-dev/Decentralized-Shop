@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/denbrivka/Documents/Projects/Web3/Hardhat/contracts/Lock.sol": {
+      "lastModificationDate": 1689078174026,
+      "contentHash": "ae66265769cc28ebdaa34881df95bc5e",
+      "sourceName": "contracts/Lock.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Lock"
+      ]
+    },
+    "/Users/denbrivka/Documents/Projects/Web3/Hardhat/contracts/Shop.sol": {
+      "lastModificationDate": 1689660368478,
+      "contentHash": "1557d7a6eee0760afdfe1c6ca9b75c41",
+      "sourceName": "contracts/Shop.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Shop"
+      ]
+    }
+  }
+}
