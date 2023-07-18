@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Decentralized Shop
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+It is a training project. The main following target is getting knowledge in solidity.
 
 Try running some of the following tasks:
 
